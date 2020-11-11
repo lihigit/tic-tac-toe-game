@@ -1,5 +1,5 @@
 #
-# Lihi's AI Tic Tac Toe Python game!
+# Lihi's Tic Tac Toe Python game!
 #
 # Author:       Lihi V
 # Date:         10.2020
