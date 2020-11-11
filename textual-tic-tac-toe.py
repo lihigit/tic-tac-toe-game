@@ -2,7 +2,7 @@
 # Lihi's Tic Tac Toe Python game!
 #
 # Author:       Lihi V
-# Date:         10.2020
+# Date:         October 2020
 # Version:      1.0
 # Description:  A Tic Tac Toe game, including 4 players' options:
 #               human, AI: hard, AI: medium and AI: easy.
