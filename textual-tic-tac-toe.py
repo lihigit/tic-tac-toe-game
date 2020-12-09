@@ -5,7 +5,7 @@
 # Date:         October 2020
 # Version:      1.0
 # Description:  A Tic Tac Toe game, including 4 players' options:
-#               human, AI: hard, AI: medium and AI: easy.
+#               human, AI: impossible, AI: medium and AI: easy.
 #
 
 from random import choice
