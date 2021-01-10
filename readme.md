@@ -1,4 +1,4 @@
-# Lihi's Tic-Tac-Toe 
+# Tic-Tac-Toe 
 ## A textual tic-tac-toe game presenting four optional players
 
 1. **Human**.
